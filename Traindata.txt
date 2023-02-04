@@ -1,0 +1,6 @@
+% There are N points in the file.
+% Each point is described with a label (text string)
+% and sequence of D numbers (attributes)
+label_B 7.6 5.3 66.7% point 1
+label_C 45.3 4.6 72.8% point 2
+label_A -3.7 22.9 44.5% point 3

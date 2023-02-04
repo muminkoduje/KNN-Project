@@ -1,0 +1,4 @@
+% There are M points. Each point is described with D attributes.
+1.5 12.3 % point 1
+4 7.6 % point 2
+0.2 -0.9 % point 3
